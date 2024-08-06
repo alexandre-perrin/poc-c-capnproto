@@ -1,0 +1,3 @@
+[submodule "c-capnproto"]
+	path = c-capnproto
+	url = git@github.com:opensourcerouting/c-capnproto.git
